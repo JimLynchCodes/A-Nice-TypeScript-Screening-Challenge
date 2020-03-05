@@ -11,7 +11,8 @@ and
 
 # Tl;dr
 
-The interesting stuff is in `src/example/`
+The interesting stuff is in: `src/example/`
+
 
 # Usage
 
